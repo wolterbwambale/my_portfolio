@@ -18,7 +18,7 @@
       true,
       {
         "ignoreAtRules": [
-          "tailwind",
+          "tailwind", 
           "apply",
           "variants",
           "responsive",
