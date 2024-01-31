@@ -1,0 +1,19 @@
+.navbar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+    padding-top: 61px;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight:600;
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu{
+    display: flex;
+}
